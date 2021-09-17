@@ -1,0 +1,17 @@
+/Users/jurgenpostelmans/Downloads/msal/bin/Debug/net5.0/msal.deps.json
+/Users/jurgenpostelmans/Downloads/msal/bin/Debug/net5.0/msal.runtimeconfig.json
+/Users/jurgenpostelmans/Downloads/msal/bin/Debug/net5.0/msal.runtimeconfig.dev.json
+/Users/jurgenpostelmans/Downloads/msal/bin/Debug/net5.0/msal.dll
+/Users/jurgenpostelmans/Downloads/msal/bin/Debug/net5.0/ref/msal.dll
+/Users/jurgenpostelmans/Downloads/msal/bin/Debug/net5.0/msal.pdb
+/Users/jurgenpostelmans/Downloads/msal/obj/Debug/net5.0/msal.csprojAssemblyReference.cache
+/Users/jurgenpostelmans/Downloads/msal/obj/Debug/net5.0/msal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jurgenpostelmans/Downloads/msal/obj/Debug/net5.0/msal.AssemblyInfoInputs.cache
+/Users/jurgenpostelmans/Downloads/msal/obj/Debug/net5.0/msal.AssemblyInfo.cs
+/Users/jurgenpostelmans/Downloads/msal/obj/Debug/net5.0/msal.csproj.CoreCompileInputs.cache
+/Users/jurgenpostelmans/Downloads/msal/obj/Debug/net5.0/msal.dll
+/Users/jurgenpostelmans/Downloads/msal/obj/Debug/net5.0/ref/msal.dll
+/Users/jurgenpostelmans/Downloads/msal/obj/Debug/net5.0/msal.pdb
+/Users/jurgenpostelmans/Downloads/msal/obj/Debug/net5.0/msal.genruntimeconfig.cache
+/Users/jurgenpostelmans/Downloads/msal/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/jurgenpostelmans/Downloads/msal/obj/Debug/net5.0/msal.csproj.CopyComplete

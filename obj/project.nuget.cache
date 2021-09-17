@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ghzbG+fatERJ2pH5mZd0p4jHE72IWJpv4qhg6U4XHMpJeNE8g1pvbc6/os6ZaoVyjWgBBgI9wT8e5orF+jwhOg==",
+  "success": true,
+  "projectFilePath": "/Users/jurgenpostelmans/Downloads/msal/msal.csproj",
+  "expectedPackageFiles": [
+    "/Users/jurgenpostelmans/.nuget/packages/microsoft.identity.client/4.22.0/microsoft.identity.client.4.22.0.nupkg.sha512"
+  ],
+  "logs": []
+}
